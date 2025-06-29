@@ -48,7 +48,9 @@ Scanner - возможность ввода ?)
 * - умножить
 / - разделить
 % - остаток от деления
-
+& - и
+| - или
+! - не =
 sout - System.out.println()
 
 public - открытый
@@ -64,5 +66,12 @@ continue - пропуск цикла
 int[] - масив (отсчет 5 = 0 1 2 3 4
 ArrayList<Byte> - add, size, get, remove, clear
 LinkedList<Byte> - для активного удал\доб
+HashSet<>
+LinkedHashSet<>
+HashTable<>
+Queue<>
+DeQueue<>
+HashMap<>
+LinkedHashMap<>
 
 lenght - длина массива
