@@ -14,7 +14,7 @@ public class Main4 {
 
         by[0][1] = 32;
 
-        for(int i = 0; i < by.length; i++) {
+        for(int i = 0; i < by.length - 1; i++) {
             byte min = by[0][i];
             if (by [0][i] < min);
             min = by[0][i];
