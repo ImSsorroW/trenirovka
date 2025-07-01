@@ -17,5 +17,8 @@ public class Main5 {
         if (sum > 0 | sum<13) {
             System.out.println("The sum is " + sum);
         }
+        else {
+            System.out.println('N');
+        }
     }
 }
